@@ -1,4 +1,4 @@
-#A terminal based implementation of a login page
+A terminal based implementation of a login page
 
  - Once a username and password has been created login can be attempted
 
@@ -12,6 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/59357147/188561514-218dea37-b30c-4cc5-8a3d-5b3576188f3b.png)
 
-#GUI implementation of a login page using Tkinter
+
+
+GUI implementation of a login page using Tkinter
 
 ![image](https://user-images.githubusercontent.com/59357147/188563460-ba309fdc-893d-4ac8-a633-e5c616d66254.png)
